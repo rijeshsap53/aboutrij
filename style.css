@@ -1,0 +1,202 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+
+
+li {
+    display: inline;
+    padding: 0 ;
+    text-decoration: none;
+    margin: 0 5px;
+    list-style: none;
+
+    
+}
+
+ul{
+    font-size:larger;
+    
+
+}
+
+
+
+header {
+    background-color: purple;
+    padding: 30px;
+    position: sticky;
+    top: 0;
+   
+   
+}
+
+
+#login-link {
+    text-align: right;
+    color: white;
+}
+
+.img-login{
+    float: right;
+    
+}
+
+
+
+
+
+.about {
+    line-height: 150%;
+    color: purple;
+}
+
+footer {
+    text-align: center;
+
+}
+
+
+
+h2 {
+    color: purple;
+
+}
+
+
+body {
+    background-color: aqua;
+
+
+}
+
+
+
+
+
+
+
+.card {
+    height: 450px;
+    width: 345px;
+    border: 2px solid black;
+    border-radius: 9px;
+    display: inline-block;
+    background-color: black;
+    padding-top: 0px;
+    padding-bottom: 26px;
+    position: relative;
+    left: 200px;
+
+}
+
+.card-2 {
+    height: 450px;
+    width: 345px;
+    border: 2px solid black;
+    border-radius: 9px;
+    display: inline-block;
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    position: relative;
+    left: 400px;
+    
+
+
+
+
+}
+
+
+
+.html {
+    border-radius: 9px;
+}
+
+
+.html-2 {
+    border-radius: 9px;
+    position: relative;
+    top: -15px;
+    
+
+}
+
+
+
+
+
+.card-text-1 {
+    color: white;
+    font-size: small;
+
+}
+
+
+.card-text-2 {
+    color: white;
+    font-size: small;
+
+}
+
+
+.card-title{
+    color: white;
+}
+
+
+
+.btn {
+
+    color: whitesmoke;
+    background-color: black;
+    font-size: 20px;
+    position: relative;
+    left: 260px;
+    bottom: -50px;
+    bottom: 5px;
+    float: left;
+
+
+}
+
+
+#home {
+    text-decoration: none;
+    color: white;
+}
+
+#profile {
+    text-decoration: none;
+    color: white;
+}
+
+
+#school {
+    text-decoration: none;
+    color: white;
+}
+
+
+#interest {
+    text-decoration: none;
+    color: white;
+}
+
+#contact-us {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+#login {
+    text-decoration: none;
+    color: white;
+    float: right;
+}
+
+
